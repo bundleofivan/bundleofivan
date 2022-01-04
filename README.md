@@ -7,7 +7,7 @@ Welcome to my GitHub. I'm currently a Full-Stack Software Engineer at The Pokém
 I'm interested in 
 - creating clean, accessible, and intuitive UI
 - scaling services globally in real time
-- blending the real and virtual world with AR
+- blending the real and virtual world through AR technology
 
 On the side, I'm learning parallel computing with Rust and the joys of data warehousing.
 
