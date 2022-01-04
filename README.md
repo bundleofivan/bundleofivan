@@ -5,7 +5,7 @@
 Welcome to my GitHub. I'm currently a Full-Stack Software Engineer at The Pokémon Company International ⚡, an avid runner 🏃 (sometimes...), and an aspiring chef 👨‍🍳. 
 
 I'm interested in 
-- creating clean, accesible, and intuitive UI
+- creating clean, accessible, and intuitive UI
 - scaling services globally in real time
 - blending the real and virtual world with AR
 
